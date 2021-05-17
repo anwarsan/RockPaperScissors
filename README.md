@@ -1,4 +1,4 @@
-# Rock Paper Scissors (Accuracy 97.56%)
+# Rock Paper Scissors
 This is the final project of image classification, part of Belajar Machine Learning from Dicoding Academy. It is an artificial neural network program using TensorFlow. The program should be able to recognize the shape of the hand in form of rock, paper, or scissors.
 
 I've got 5 stars for the final result which has completed these criterias:
